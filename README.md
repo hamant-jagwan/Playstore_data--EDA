@@ -2,10 +2,14 @@
 ## This project is an exploratory data analysis of the Google Play Store dataset. The objective of this analysis is to gain insights into the app market on the Google Play Store.
 
 # Data Set
-## The Google Play Store dataset used for this analysis contains information on over 10,000 apps available on the Google Play Store. The dataset includes details such as the app category, ratings, reviews, installs, and price. The data was sourced from Kaggle and can be found at https://www.kaggle.com/lava18/google-play-store-apps.
+## The Google Play Store dataset used for this analysis contains information on over 10,000 apps available on the Google Play Store. The dataset includes details such as the app category, ratings, reviews, installs, and price. The data was sourced from Almabetter and can be found at https://drive.google.com/file/d/1l8N817gzFaZ1xeifDx2s_YXXtM2HnjDd/view?usp=share_link
 
 # Technologies Used
-## The analysis was performed using Python 3.8, and the following libraries: pandas, numpy, matplotlib, and seaborn.
+## The analysis was performed using Python 3.8, and the following libraries: 
+* pandas 
+* numpy 
+* matplotlib 
+* seaborn. 
 
 # Methodology
 ## The following steps were taken to perform the EDA on the data set:
@@ -29,7 +33,7 @@ The number of installs is positively correlated with the rating of the app.
 ## In conclusion, the EDA on the Google Play Store dataset provided insights into the app market on the Google Play Store. The analysis revealed that the most popular app categories are family, game, and tools, and most apps have a high rating. The number of installs is also positively correlated with the rating of the app. However, it is important to note that this analysis has some limitations, and further research is needed to gain a more comprehensive understanding of the app market on the Google Play Store.
 
 # References
-Lava18. (2018). Google Play Store Apps. Retrieved from https://www.kaggle.com/lava18/google-play-store-apps
+Google Play Store Apps. Retrieved from https://drive.google.com/file/d/1l8N817gzFaZ1xeifDx2s_YXXtM2HnjDd/view?usp=share_link
 
 # Acknowledgements
 ## This project was completed as part of a data science course at AlmaBetter. Special thanks to the course instructors for their guidance and support.
