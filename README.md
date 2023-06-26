@@ -1,4 +1,8 @@
 # Exploratory Data Analysis on Google Play Store Dataset
+## Jupyter Notebook Viewer - An alternative link
+
+https://nbviewer.org/github/hamant-jagwan/playstore_data--EDA/blob/main/CAPSTONE_PROJECT_1_EDA.ipynb
+
 ## This project is an exploratory data analysis of the Google Play Store dataset. The objective of this analysis is to gain insights into the app market on the Google Play Store.
 
 # Data Set
