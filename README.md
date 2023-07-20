@@ -1,22 +1,26 @@
 # Exploratory Data Analysis on Google Play Store Dataset
-## Jupyter Notebook Viewer - An alternative link
+<p align="center"> 
+<img src="https://cdn.dribbble.com/users/2991/screenshots/1676747/media/126501a553d53578f1e056007f16f319.gif"  width="500" height="400" alt="GIF">
+</p>
 
+
+## Jupyter Notebook Viewer - An alternative link
 https://nbviewer.org/github/hamant-jagwan/playstore_data--EDA/blob/main/CAPSTONE_PROJECT_1_EDA.ipynb
 
 ## This project is an exploratory data analysis of the Google Play Store dataset. The objective of this analysis is to gain insights into the app market on the Google Play Store.
 
-# Data Set
-The Google Play Store dataset used for this analysis contains information on over 10,000 apps available on the Google Play Store. The dataset includes details such as the app category, ratings, reviews, installs, and price. The data was sourced from Almabetter and can be found at https://drive.google.com/file/d/1l8N817gzFaZ1xeifDx2s_YXXtM2HnjDd/view?usp=share_link
+## Data Set
+  The Google Play Store dataset used for this analysis contains information on over 10,000 apps available on the Google Play Store. The dataset includes details such as the app category,     ratings, reviews, installs, and price. The data was sourced from Almabetter and can be found at https://drive.google.com/file/d/1l8N817gzFaZ1xeifDx2s_YXXtM2HnjDd/view?usp=share_link
 
 # Technologies Used
 ## The analysis was performed using Python 3.8, and the following libraries: 
-* pandas 
-* numpy 
-* matplotlib 
-* seaborn. 
+  * pandas 
+  * numpy 
+  * matplotlib 
+  * seaborn. 
 
-# Methodology
-The following steps were taken to perform the EDA on the data set:
+## Methodology
+   The following steps were taken to perform the EDA on the data set:
 
 **Data cleaning**: The dataset was cleaned by removing duplicates and null values.
 
