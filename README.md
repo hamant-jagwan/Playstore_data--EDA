@@ -35,20 +35,20 @@ https://nbviewer.org/github/hamant-jagwan/playstore_data--EDA/blob/main/CAPSTONE
     4. seaborn. 
 
 ## Methodology
-   The following steps were taken to perform the EDA on the data set:
-   1. Data Cleaning
-   2. Data Exploration & Feature Engineering
-   3. Data Visualization
-   4. Data Insight
+       The following steps were taken to perform the EDA on the data set:
+       1. Data Cleaning
+       2. Data Exploration & Feature Engineering
+       3. Data Visualization
+       4. Data Insight
     
-## **Data cleaning**
+## Data cleaning
     The dataset was cleaned by removing duplicates and null values.
     1. Android Ver: There are a total of 3 NaN values in this column.
     2. Current Ver: There are a total of 8 NaN values in this column.
     3. Type: There is only one NaN value in this column.
     4. Rating: This column contains 1470 NaN values.
 
-## **Data exploration & Feature Engineering** 
+## Data exploration & Feature Engineering 
     The dataset was explored by analyzing the distribution of app categories, ratings, reviews, installs,  and price.
     1. Handling the duplicates in the App column
     2. Changing the datatype of the Last Updated column from string to datetime.
@@ -58,7 +58,7 @@ https://nbviewer.org/github/hamant-jagwan/playstore_data--EDA/blob/main/CAPSTONE
     6. Converting the datatype of values in the Reviews column from string to int.
     7. Data Exploration--Univariate & Bivariate Analysis
 
-## **Data visualization**: 
+## Data visualization
     The insights gained from the exploration were visualized using various plots such as histograms, scatter plots, and box plots.
     1. Correlation Heatmap
     2. Pie chart: What is the ratio of number of Paid apps and Free apps?
