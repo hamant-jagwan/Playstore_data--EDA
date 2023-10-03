@@ -110,7 +110,8 @@ https://nbviewer.org/github/hamant-jagwan/playstore_data--EDA/blob/main/CAPSTONE
 
 
 ## Acknowledgements
-    This project was completed as part of a data science course at AlmaBetter. Special thanks to the course instructors for their guidance and support.
+    This project was completed as part of a data science course at AlmaBetter. 
+    Special thanks to the course instructors for their guidance and support.
 
 ## How to Run
     To run the analysis, you can clone the GitHub repository to your local machine and run the Google colab notebook. Make sure you have the necessary dependencies are installed.
